@@ -1,0 +1,4 @@
+specVersion: 0.36.0
+name: gitconfig
+runtime: go
+created: 2024-08-28T13:56:38.67333507-03:00
